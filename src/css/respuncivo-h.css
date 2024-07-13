@@ -15,6 +15,7 @@
         background-repeat: no-repeat;
     }
 
+
     iframe#tela {
         position: relative;
         top: 31px;
@@ -27,14 +28,14 @@
     section#redes-sociais {
         text-align: right;
         position: absolute;
-        top: 30px;
+        top: 5px;
         right: 5px;
     }
 
     section#redes-sociais img {
         display: inline-block;
-        width: 30px;
-        margin: 10px;
+        width: 25px;
+        margin: 5px 10px;
         border-radius: 50%;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.500);
         box-sizing: border-box;
