@@ -29,13 +29,13 @@
         text-align: right;
         position: absolute;
         top: 20%;
-        right: 10px;
+        right: 5%;
     }
 
     section#redes-sociais img {
         display: inline-block;
         width: 25px;
-        margin: 5px 10px;
+        margin: 5px 8px;
         border-radius: 50%;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.500);
         box-sizing: border-box;
