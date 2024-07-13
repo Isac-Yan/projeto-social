@@ -1,5 +1,25 @@
 @charset "UTF-8";
 
-@media(max-width:380px) {
+@media(max-width: 400px) {
+
+    iframe#tela {
+        position: relative;
+        top: 66px;
+        left: 19px;
+        width: 212px;
+        height: 375px;
+    }
+
+    section#telefone {
+        position: absolute;
+        top: 50%;
+        left: 50%;
     
+        transform: translate(-50%, -50%);
+    
+        height: 502px;
+        width: 250px;
+        background-image: url('../img/frame-iphone-pequeno.png');
+        background-repeat: no-repeat;
+    }
 }
